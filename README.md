@@ -2,4 +2,4 @@
 
 CSCI 1301 Labs
 
-All Lab details are in the PDF files
+All Lab instructions are in the PDF files
